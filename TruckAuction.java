@@ -3,13 +3,11 @@ import java.text.DecimalFormat;
 import javax.swing.JOptionPane;
 
 public class Project_cononie {
-/* Daniel Cononie
- * Due May 1, 2022
- * This program will allow the user to input up to 100 trucks and enter their information while the program calculates
+/* This program will allow the user to input up to 100 trucks and enter their information while the program calculates
  * whether it will be auctioned based off of the mileage and age of the truck. The program will then calculate the auction price
  * of the truck if it is to be auctioned, then will allow the user to search for a truck by the VIN, display all trucks information
- * or quit program. 
- */
+//  or quit program. */
+
 	static String input = " ";
 	public static void main(String[] args) {		
 		
